@@ -1,3 +1,4 @@
+![Banner_Site_Artigo](https://user-images.githubusercontent.com/72030272/226208535-e49d027d-9027-43af-8e39-f3277acd050e.png)
 
 # Cursos superiores da área de Computação versus formações imersivas em TI: qual profissional o mercado realmente precisa?
 
