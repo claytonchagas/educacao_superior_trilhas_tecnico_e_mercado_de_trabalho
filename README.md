@@ -18,3 +18,4 @@
 ![EADxPres](https://user-images.githubusercontent.com/18330758/226191093-b1b9ade2-d959-4b16-9136-b467708523b3.jpg)
 
 teste123
+![agrupamento_trilhas](https://user-images.githubusercontent.com/18330758/226206110-1a786b32-ba8c-4f6b-9161-f29196e5b00a.png)
