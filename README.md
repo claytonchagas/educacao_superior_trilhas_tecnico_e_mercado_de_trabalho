@@ -10,3 +10,5 @@
 + Ian Lucca - Colégio Militar do Rio de Janeiro - seu e-mail
 + Mariana Racca - Colégio Militar do Rio de Janeiro - seu e-mail
 + Ana Lúcia de Oliveira Barreto - Colégio Militar do Rio de Janeiro - seu e-mail
+
+## Quatitativa Geral
