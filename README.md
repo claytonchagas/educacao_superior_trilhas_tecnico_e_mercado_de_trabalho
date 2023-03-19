@@ -12,3 +12,4 @@
 + Ana Lúcia de Oliveira Barreto - Colégio Militar do Rio de Janeiro - seu e-mail
 
 ## Quatitativa Geral
+![Quantitativa Geral](https://user-images.githubusercontent.com/18330758/226190257-607a7e71-ae9f-4214-9fa1-15d85a385172.png)
