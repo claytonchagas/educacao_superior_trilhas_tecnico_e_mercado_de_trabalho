@@ -15,3 +15,4 @@
 ![Quantitativa Geral](https://user-images.githubusercontent.com/18330758/226190257-607a7e71-ae9f-4214-9fa1-15d85a385172.png)
 
 ## EAD x Presencial
+![EADxPres](https://user-images.githubusercontent.com/18330758/226191093-b1b9ade2-d959-4b16-9136-b467708523b3.jpg)
