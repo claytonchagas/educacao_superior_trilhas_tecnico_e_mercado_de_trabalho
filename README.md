@@ -21,3 +21,12 @@
 
 teste123
 ![agrupamento_trilhas](https://user-images.githubusercontent.com/18330758/226206110-1a786b32-ba8c-4f6b-9161-f29196e5b00a.png)
+
+## Tabelas complemetares do artigo "Cursos superiores da área de Computação versus formacões imersivas em TI: qual profissional o mercado realmente precisa?" - WEI 2023 - CSBC
+
+## Seção 3.1: Ensino de computação no nível superior no Brasil
+
+## Seção 3.2: Ensino de computação através de cursos técnicos e de trilhas de aprendizado
+
+## Seção 3.3: Vagas do Mercado de trabalho em Computação
+
