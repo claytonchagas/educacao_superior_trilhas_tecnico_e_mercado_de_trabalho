@@ -15,7 +15,13 @@
 
 ## Tabelas complemetares do artigo "Cursos superiores da área de Computação versus formacões imersivas em TI: qual profissional o mercado realmente precisa?" - WEI 2023 - CSBC
 
-https://drive.google.com/file/d/1FkfTD4rQNvuHNckE4o53q0wt-Av3ji1C/view?usp=sharing
+### Planilhas com informações das disciplinas dos cursos superiores
+Área para as planilhas da Sofia
+
+### Documentos com informações das grades das trilhas de formação
+[Grade Formação Desenvolvedor Web da Trybe](https://drive.google.com/file/d/1FkfTD4rQNvuHNckE4o53q0wt-Av3ji1C/view?usp=sharing)
+
+[Grade Formação Hacker da Gama Academy](www.google.com)
 
 ## Seção 3.1: Ensino de computação no nível superior no Brasil
 
