@@ -8,7 +8,7 @@
 + Clayton Escouper das Chagas - Instituto Militar de Engenharia - escouper@ime.eb.br
 + Sofia Monteiro - Colégio Militar do Rio de Janeiro - sofia.moumont@gmail.com
 + Ian Lucca - Colégio Militar do Rio de Janeiro - seu e-mail
-+ Mariana Racca - Colégio Militar do Rio de Janeiro - seu e-mail
++ Mariana Racca - Colégio Militar do Rio de Janeiro - marianaaracca@gmail.com
 + Ana Lúcia de Oliveira Barreto - Colégio Militar do Rio de Janeiro - anabarreto@ime.eb.br
 
 ## Informações complemetares do artigo "Cursos superiores da área de Computação versus formacões imersivas em TI: qual profissional o mercado realmente precisa?" - WEI 2023 - CSBC
