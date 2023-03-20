@@ -13,7 +13,7 @@
 + Mariana Racca - Colégio Militar do Rio de Janeiro - seu e-mail
 + Ana Lúcia de Oliveira Barreto - Colégio Militar do Rio de Janeiro - anabarreto@ime.eb.br
 
-## Tabelas complemetares do artigo "Cursos superiores da área de Computação versus formacões imersivas em TI: qual profissional o mercado realmente precisa?" - WEI 2023 - CSBC
+## Informações complemetares do artigo "Cursos superiores da área de Computação versus formacões imersivas em TI: qual profissional o mercado realmente precisa?" - WEI 2023 - CSBC
 
 ### Planilhas com informações das disciplinas dos cursos superiores
 Área para as planilhas da Sofia
