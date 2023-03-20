@@ -19,6 +19,8 @@
 
 ## Seção 3.2: Ensino de computação através de cursos técnicos e de trilhas de aprendizado
 
+#### Grade com os módulos do curso de formação em Desenvolvimento Web da Trybe
+
 ## Seção 3.3: Vagas do Mercado de trabalho em Computação
 
 ******************EXEMPLOS ABAIXO*****************
