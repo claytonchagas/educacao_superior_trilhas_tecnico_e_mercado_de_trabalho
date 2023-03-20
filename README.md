@@ -23,7 +23,7 @@
 ### Documentos com informações das grades das trilhas de Formação
 [Grade Formação Desenvolvedor Web da Trybe](https://drive.google.com/file/d/1lYZXb5o6MsAGXVbJbs0iftNuxU0H2jIM/view?usp=share_link)
 
-[Grade Formação Hacker da Gama Academy](https://drive.google.com/file/d/1FkfTD4rQNvuHNckE4o53q0wt-Av3ji1C/view?usp=share_link
+[Grade Formação Hacker da Gama Academy](https://drive.google.com/file/d/1FkfTD4rQNvuHNckE4o53q0wt-Av3ji1C/view?usp=share_link)
 
 ## Seção 3.3: Vagas do Mercado de trabalho em Computação
 
