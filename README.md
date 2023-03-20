@@ -15,6 +15,8 @@
 
 ## Tabelas complemetares do artigo "Cursos superiores da área de Computação versus formacões imersivas em TI: qual profissional o mercado realmente precisa?" - WEI 2023 - CSBC
 
+https://drive.google.com/file/d/1FkfTD4rQNvuHNckE4o53q0wt-Av3ji1C/view?usp=sharing
+
 ## Seção 3.1: Ensino de computação no nível superior no Brasil
 
 ## Seção 3.2: Ensino de computação através de cursos técnicos e de trilhas de aprendizado
