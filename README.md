@@ -43,6 +43,7 @@ Tabela de exposição da Representatividade de cada cluster por Curso
 
 [Grade Formação Técnica do SENAC] () 
 
+### Tabela com informações das grades das trilhas de formação
 
 
 ## Seção 3.3: Vagas do Mercado de trabalho em Computação
