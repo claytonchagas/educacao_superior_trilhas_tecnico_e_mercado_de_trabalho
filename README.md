@@ -13,10 +13,11 @@
 
 ## Informações complemetares do artigo "Cursos superiores da área de Computação versus formacões imersivas em TI: qual profissional o mercado realmente precisa?" - WEI 2023 - CSBC
 
-### Planilhas com informações das disciplinas dos cursos superiores
-Área para as planilhas da Sofia
-
 ## Seção 3.1: Ensino de computação no nível superior no Brasil
+### Planilhas com informações das disciplinas dos cursos superiores
+[Detalhamento acerca das Instituições Selecionadas](https://docs.google.com/spreadsheets/d/10HDCizXgg0XCBmu86NccRmOBZYmlVU4BUZY4mcHR37Y/edit#gid=0)
+[*Clusterização* de Grades Curriculares](https://docs.google.com/spreadsheets/d/1aKlOfqcrN__Jsw5BF_94BExX9WM028cNZN60YfyDvTw/edit#gid=0)
+[]()
 
 ## Seção 3.2: Ensino de computação através de cursos técnicos e de trilhas de aprendizado
 
