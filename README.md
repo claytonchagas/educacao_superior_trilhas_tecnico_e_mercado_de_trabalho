@@ -16,8 +16,23 @@
 ## Seção 3.1: Ensino de computação no nível superior no Brasil
 ### Planilhas com informações das disciplinas dos cursos superiores
 [Detalhamento acerca das Instituições Selecionadas](https://docs.google.com/spreadsheets/d/10HDCizXgg0XCBmu86NccRmOBZYmlVU4BUZY4mcHR37Y/edit#gid=0)
+
 [*Clusterização* de Grades Curriculares](https://docs.google.com/spreadsheets/d/1aKlOfqcrN__Jsw5BF_94BExX9WM028cNZN60YfyDvTw/edit#gid=0)
-[]()
+
+[Listagem de matérias por Cluster]()
+
+### Público x Privado
+Diferença Percentual de Representatividade de Cluster das Instituições de Ensino Públicas para as Privadas
+
+### Presencial x EAD
+Diferença Percentual de Representatividade de Cluster da Modalidade de Ensino Presencial para EAD
+![EADxPres](https://user-images.githubusercontent.com/18330758/226191093-b1b9ade2-d959-4b16-9136-b467708523b3.jpg)
+
+### Quantitativa Geral
+Tabela de exposição da Representatividade de cada cluster por Intituição
+
+Tabela de exposição da Representatividade de cada cluster por Curso
+![Quantitativa Geral](https://user-images.githubusercontent.com/18330758/226190257-607a7e71-ae9f-4214-9fa1-15d85a385172.png)
 
 ## Seção 3.2: Ensino de computação através de cursos técnicos e de trilhas de aprendizado
 
@@ -33,11 +48,7 @@
 ## Seção 3.3: Vagas do Mercado de trabalho em Computação
 
 ******************EXEMPLOS ABAIXO*****************
-## Quantitativa Geral
-![Quantitativa Geral](https://user-images.githubusercontent.com/18330758/226190257-607a7e71-ae9f-4214-9fa1-15d85a385172.png)
 
-## EAD x Presencial ❤️
-![EADxPres](https://user-images.githubusercontent.com/18330758/226191093-b1b9ade2-d959-4b16-9136-b467708523b3.jpg)
 
 teste123
 ![agrupamento_trilhas](https://user-images.githubusercontent.com/18330758/226206110-1a786b32-ba8c-4f6b-9161-f29196e5b00a.png)
