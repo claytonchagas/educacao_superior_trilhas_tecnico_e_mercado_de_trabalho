@@ -44,7 +44,11 @@ Tabela de exposição da Representatividade de cada cluster por Curso
 [Grade Formação Técnica do SENAC] () 
 
 ### Tabela com informações das grades das trilhas de formação
+Tabela da grade da Formação de Desenvolvimento Web da Trybe
 ![tab_trybe_png](https://user-images.githubusercontent.com/128313401/226761404-5f9d6637-54f2-4f7a-a9ea-e45b71ddd1ee.png)
+
+Tabela da grade de Formação Hacker da Gama Academy
+
 
 
 ## Seção 3.3: Vagas do Mercado de trabalho em Computação
