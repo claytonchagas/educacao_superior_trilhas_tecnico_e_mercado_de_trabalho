@@ -53,6 +53,8 @@ Tabela da grade de Formação Hacker da Gama Academy
 Tabela da grade de formação técnica do SENAC
 ![tab_snc_png (1)](https://user-images.githubusercontent.com/128313401/226762679-ab169e92-28c0-4096-b488-6592e40bd88a.png)
 
+Tabela de agrupamento das grades dos três cursos
+![grade_trilhas2](https://user-images.githubusercontent.com/18330758/226469468-248c3742-d652-4822-a5f5-ad7a195903a7.png)
 
 
 ## Seção 3.3: Vagas do Mercado de trabalho em Computação
