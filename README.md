@@ -50,6 +50,8 @@ Tabela da grade da Formação de Desenvolvimento Web da Trybe
 Tabela da grade de Formação Hacker da Gama Academy
 ![tab_gama_png](https://user-images.githubusercontent.com/128313401/226762504-2c6398dc-cbbe-4879-9f92-89d1f0922080.png)
 
+Tabela da grade de formação técnica do SENAC
+![tab_snc_png (1)](https://user-images.githubusercontent.com/128313401/226762679-ab169e92-28c0-4096-b488-6592e40bd88a.png)
 
 
 
