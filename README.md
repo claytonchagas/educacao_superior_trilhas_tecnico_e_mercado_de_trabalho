@@ -58,12 +58,3 @@ Tabela de agrupamento das grades dos três cursos
 
 
 ## Seção 3.3: Vagas do Mercado de trabalho em Computação
-
-******************EXEMPLOS ABAIXO*****************
-
-
-teste123
-![agrupamento_trilhas](https://user-images.githubusercontent.com/18330758/226206110-1a786b32-ba8c-4f6b-9161-f29196e5b00a.png)
-
-![grade_trilhas2](https://user-images.githubusercontent.com/18330758/226469468-248c3742-d652-4822-a5f5-ad7a195903a7.png)
-
