@@ -22,12 +22,10 @@
 [Listagem de matérias por Cluster]()
 
 ### Público x Privado
-Referenciação e Detalhamento da relação entre Instituições Públicas e Privadas 
-[Público x Privado](https://docs.google.com/spreadsheets/d/1SYJN1UsXId8N6NeU9QtoQzEmZdiJ7EcYViyyfqF8z6k/edit#gid=67124030)
+Referenciação e Detalhamento da relação entre Instituições [Públicas e Privadas](https://docs.google.com/spreadsheets/d/1SYJN1UsXId8N6NeU9QtoQzEmZdiJ7EcYViyyfqF8z6k/edit#gid=67124030)
 
 ### Presencial x EAD
-Referenciação e Detalhamento da relação entre cursos na modalidade Presencial e EAD
-[Presencial x EAD](https://docs.google.com/spreadsheets/d/1Jjwi2wlTrCDm3D-uB7N2K94sRkiC8gT64eI9U0sZWXo/edit?usp=sharing)
+Referenciação e Detalhamento da relação entre cursos nas modalidades [Presencial e EAD](https://docs.google.com/spreadsheets/d/1Jjwi2wlTrCDm3D-uB7N2K94sRkiC8gT64eI9U0sZWXo/edit?usp=sharing)
 
 ### Quantitativa Geral
 Tabela de exposição da Representatividade de cada cluster por Intituição
