@@ -22,11 +22,12 @@
 [Listagem de matérias por Cluster]()
 
 ### Público x Privado
-Diferença Percentual de Representatividade de Cluster das Instituições de Ensino Públicas para as Privadas
+Referenciação e Detalhamento da relação entre Instituições Públicas e Privadas 
+[Público x Privado](https://docs.google.com/spreadsheets/d/1SYJN1UsXId8N6NeU9QtoQzEmZdiJ7EcYViyyfqF8z6k/edit#gid=67124030)
 
 ### Presencial x EAD
-Diferença Percentual de Representatividade de Cluster da Modalidade de Ensino Presencial para EAD
-![EADxPres](https://user-images.githubusercontent.com/18330758/226191093-b1b9ade2-d959-4b16-9136-b467708523b3.jpg)
+Referenciação e Detalhamento da relação entre cursos na modalidade Presencial e EAD
+[Presencial x EAD](https://docs.google.com/spreadsheets/d/1Jjwi2wlTrCDm3D-uB7N2K94sRkiC8gT64eI9U0sZWXo/edit?usp=sharing)
 
 ### Quantitativa Geral
 Tabela de exposição da Representatividade de cada cluster por Intituição
