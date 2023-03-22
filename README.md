@@ -36,14 +36,14 @@ Tabela de exposição da Representatividade de cada cluster por Curso
 
 ## Seção 3.2: Ensino de computação através de cursos técnicos e de trilhas de aprendizado
 
-### Documentos com informações das grades das trilhas de Formação
-[Grade Formação Desenvolvedor Web da Trybe](https://drive.google.com/file/d/1lYZXb5o6MsAGXVbJbs0iftNuxU0H2jIM/view?usp=share_link)
+### Documentos com informações detalhadas das trilhas de formação e cursos técnicos da pesquisa
+[Detalhes Formação Desenvolvedor Web da Trybe](https://drive.google.com/file/d/1lYZXb5o6MsAGXVbJbs0iftNuxU0H2jIM/view?usp=share_link)
 
-[Grade Formação Hacker da Gama Academy](https://drive.google.com/file/d/1FkfTD4rQNvuHNckE4o53q0wt-Av3ji1C/view?usp=share_link)
+[Detalhes Formação Hacker da Gama Academy](https://drive.google.com/file/d/1FkfTD4rQNvuHNckE4o53q0wt-Av3ji1C/view?usp=share_link)
 
-[Grade Formação Técnica do SENAC] () 
+[Detalhes Curso Técnico em Informática do SENAC](https://drive.google.com/file/d/1pfRFYAPTQx2XtvSfn-KSTPmbBtausNf8/view?usp=sharing) 
 
-### Tabela com informações das grades das trilhas de formação
+### Tabela com informações das grades das trilhas de formação e cursos técnicos da pesquisa
 Tabela da grade da Formação de Desenvolvimento Web da Trybe
 ![tab_trybe_png](https://user-images.githubusercontent.com/128313401/226761404-5f9d6637-54f2-4f7a-a9ea-e45b71ddd1ee.png)
 
