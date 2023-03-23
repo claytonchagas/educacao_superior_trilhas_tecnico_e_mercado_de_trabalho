@@ -7,7 +7,7 @@
 #### Integrantes do projeto:
 + Clayton Escouper das Chagas - Instituto Militar de Engenharia - escouper@ime.eb.br
 + Sofia Monteiro - Colégio Militar do Rio de Janeiro - sofia.moumont@gmail.com
-+ Ian Lucca - Colégio Militar do Rio de Janeiro - seu e-mail
++ Ian Lucca - Colégio Militar do Rio de Janeiro - ianluccab@gmail.com
 + Mariana Racca - Colégio Militar do Rio de Janeiro - marianaaracca@gmail.com
 + Ana Lúcia de Oliveira Barreto - Colégio Militar do Rio de Janeiro - anabarreto@ime.eb.br
 
