@@ -34,7 +34,9 @@ Tabela de exposição da Representatividade de cada cluster por Curso
 ![Quantitativa Geral](https://user-images.githubusercontent.com/18330758/226190257-607a7e71-ae9f-4214-9fa1-15d85a385172.png)
 
 ### Frequência entre os cursos
+[Frequência entre os Cursos](https://docs.google.com/spreadsheets/d/1ciY9wprPXJTwlfkypuiZ322W2Tb1wc10_-632CquUww/edit#gid=1592863408)
 
+*Destacam-se os clusters que aparecem em ao menos sete das instituições analisadas
 
 ## Seção 3.2: Ensino de computação através de cursos técnicos e de trilhas de aprendizado
 
