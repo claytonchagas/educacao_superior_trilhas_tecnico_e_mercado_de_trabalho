@@ -67,6 +67,8 @@ Tabela de agrupamento das grades dos três cursos
 ![(b) tab_completoincompleto](https://user-images.githubusercontent.com/128312304/227389544-80e12111-d7f2-4020-a916-fbda4a738214.png)
 ![(c) tab_areacomputacao](https://user-images.githubusercontent.com/128312304/227389682-64b78df4-ee6b-4ba0-9e47-2195141fa1fa.png)
 ![(d) tab_linguaestrangeira](https://user-images.githubusercontent.com/128312304/227389763-3372afad-3344-4168-bd25-f68b903f5d27.png)
+![tab_hardesoftskills](https://user-images.githubusercontent.com/128312304/227389876-baef0621-6da6-4c9b-a75b-bf1ac41c2a73.png)
+
 
 
 
