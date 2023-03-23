@@ -62,3 +62,5 @@ Tabela de agrupamento das grades dos três cursos
 
 
 ## Seção 3.3: Vagas do Mercado de trabalho em Computação
+
+![(a) tab_escolaridade](https://user-images.githubusercontent.com/128312304/227389276-289d7708-189f-4a66-bd12-407c9108104c.png)
