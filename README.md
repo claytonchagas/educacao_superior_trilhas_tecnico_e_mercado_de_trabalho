@@ -65,4 +65,6 @@ Tabela de agrupamento das grades dos três cursos
 
 ![(a) tab_escolaridade](https://user-images.githubusercontent.com/128312304/227389276-289d7708-189f-4a66-bd12-407c9108104c.png)
 ![(b) tab_completoincompleto](https://user-images.githubusercontent.com/128312304/227389544-80e12111-d7f2-4020-a916-fbda4a738214.png)
+![(c) tab_areacomputacao](https://user-images.githubusercontent.com/128312304/227389682-64b78df4-ee6b-4ba0-9e47-2195141fa1fa.png)
+
 
