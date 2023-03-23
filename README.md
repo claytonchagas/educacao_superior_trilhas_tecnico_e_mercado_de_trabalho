@@ -28,10 +28,13 @@ Referenciação e Detalhamento da relação entre Instituições [Públicas e Pr
 Referenciação e Detalhamento da relação entre cursos nas modalidades [Presencial e EAD](https://docs.google.com/spreadsheets/d/1Jjwi2wlTrCDm3D-uB7N2K94sRkiC8gT64eI9U0sZWXo/edit?usp=sharing)
 
 ### Quantitativa Geral
-Tabela de exposição da Representatividade de cada cluster por Intituição
+[Tabelas de exposição da Representatividade de cada cluster por Intituição e por curso](https://docs.google.com/spreadsheets/d/1EO5cMICitsgDrxiXoB5m4CHINv6PfBByuqu6407Mfm4/edit#gid=0)
 
 Tabela de exposição da Representatividade de cada cluster por Curso
 ![Quantitativa Geral](https://user-images.githubusercontent.com/18330758/226190257-607a7e71-ae9f-4214-9fa1-15d85a385172.png)
+
+### Frequência entre os cursos
+
 
 ## Seção 3.2: Ensino de computação através de cursos técnicos e de trilhas de aprendizado
 
