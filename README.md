@@ -9,7 +9,7 @@
 + Sofia Monteiro - Colégio Militar do Rio de Janeiro - Aluna Líder da pesquisa e Bolsista de Iniciação Científica Júnior do CNPq - <sofia.moumont@gmail.com>
 + Ian Lucca - Colégio Militar do Rio de Janeiro - Bolsista de Iniciação Científica Júnior do CNPq - <ianluccab@gmail.com>
 + Mariana Racca - Colégio Militar do Rio de Janeiro - Bolsista de Iniciação Científica Júnior do CNPq - <marianaaracca@gmail.com>
-+ Ana Lúcia de Oliveira Barreto - Colégio Militar do Rio de Janeiro - Co-orientadora - <anabarreto@ime.eb.br>
++ Ana Lúcia de Oliveira Barreto - Colégio Militar do Rio de Janeiro - Professora do CMRJ e Co-orientadora - <anabarreto@ime.eb.br>
 
 ## Informações complemetares do artigo "Cursos superiores da área de Computação versus formacões imersivas em TI: qual profissional o mercado realmente precisa?" - WEI 2023 - CSBC
 
