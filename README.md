@@ -6,7 +6,7 @@
 
 #### Integrantes do projeto:
 + Clayton Escouper das Chagas - Instituto Militar de Engenharia (IME/RJ) - Professor do IME e Orientador da pesquisa - <escouper@ime.eb.br>
-+ Sofia Monteiro - Colégio Militar do Rio de Janeiro - Bolsista de Iniciação Científica Júnior do CNPq - <sofia.moumont@gmail.com>
++ Sofia Monteiro - Colégio Militar do Rio de Janeiro - Aluna Líder da pesquisa e Bolsista de Iniciação Científica Júnior do CNPq - <sofia.moumont@gmail.com>
 + Ian Lucca - Colégio Militar do Rio de Janeiro - Bolsista de Iniciação Científica Júnior do CNPq - <ianluccab@gmail.com>
 + Mariana Racca - Colégio Militar do Rio de Janeiro - Bolsista de Iniciação Científica Júnior do CNPq - <marianaaracca@gmail.com>
 + Ana Lúcia de Oliveira Barreto - Colégio Militar do Rio de Janeiro - Co-orientadora - <anabarreto@ime.eb.br>
