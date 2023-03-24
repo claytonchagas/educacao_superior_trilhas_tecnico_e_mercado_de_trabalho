@@ -5,11 +5,11 @@
 #### Pesquisa realizada junto dos alunos do Colégio Militar do Rio de Janeiro para tentar responder ao seguinte questionamento: Cursos superiores da  área de Computação versus formações imersivas em TI: qual profissional o mercado realmente precisa?
 
 #### Integrantes do projeto:
-+ Clayton Escouper das Chagas - Instituto Militar de Engenharia - escouper@ime.eb.br
-+ Sofia Monteiro - Colégio Militar do Rio de Janeiro - sofia.moumont@gmail.com
-+ Ian Lucca - Colégio Militar do Rio de Janeiro - ianluccab@gmail.com
-+ Mariana Racca - Colégio Militar do Rio de Janeiro - marianaaracca@gmail.com
-+ Ana Lúcia de Oliveira Barreto - Colégio Militar do Rio de Janeiro - anabarreto@ime.eb.br
++ Clayton Escouper das Chagas - Instituto Militar de Engenharia - Orientador da pesquisa - <escouper@ime.eb.br>
++ Sofia Monteiro - Colégio Militar do Rio de Janeiro - Bolsista de Iniciação Científica Júnior do CNPq - <sofia.moumont@gmail.com>
++ Ian Lucca - Colégio Militar do Rio de Janeiro - Bolsista de Iniciação Científica Júnior do CNPq - <ianluccab@gmail.com>
++ Mariana Racca - Colégio Militar do Rio de Janeiro - Bolsista de Iniciação Científica Júnior do CNPq - <marianaaracca@gmail.com>
++ Ana Lúcia de Oliveira Barreto - Colégio Militar do Rio de Janeiro - Co-orientadora - <anabarreto@ime.eb.br>
 
 ## Informações complemetares do artigo "Cursos superiores da área de Computação versus formacões imersivas em TI: qual profissional o mercado realmente precisa?" - WEI 2023 - CSBC
 
