@@ -41,7 +41,7 @@ Tabela de exposição da Representatividade de cada cluster por Curso
 ## Seção 3.2: Ensino de computação através de cursos técnicos e de trilhas de aprendizado
 
 ### Documentos com informações detalhadas das trilhas de formação e cursos técnicos da pesquisa
-[Detalhes Formação Desenvolvedor Web da Trybe](https://drive.google.com/file/d/1lYZXb5o6MsAGXVbJbs0iftNuxU0H2jIM/view?usp=share_link){target="_blank"}
+[Detalhes Formação Desenvolvedor Web da Trybe]<https://drive.google.com/file/d/1lYZXb5o6MsAGXVbJbs0iftNuxU0H2jIM/view?usp=share_link>
 
 [Detalhes Formação Hacker da Gama Academy](https://drive.google.com/file/d/1FkfTD4rQNvuHNckE4o53q0wt-Av3ji1C/view?usp=share_link)
 
