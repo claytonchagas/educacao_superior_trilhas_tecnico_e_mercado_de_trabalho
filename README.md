@@ -52,7 +52,7 @@ Tabela da grade da Formação de Desenvolvimento Web da Trybe:
 ![tab_trybe_png](https://user-images.githubusercontent.com/128313401/226761404-5f9d6637-54f2-4f7a-a9ea-e45b71ddd1ee.png)
 
 Tabela da grade da Formação de Desenvolvimento Web da Trybe:
-<img src="https://user-images.githubusercontent.com/128313401/226761404-5f9d6637-54f2-4f7a-a9ea-e45b71ddd1ee.png"  width="50%" height="50%">
+<img src="https://user-images.githubusercontent.com/128313401/226761404-5f9d6637-54f2-4f7a-a9ea-e45b71ddd1ee.png"  width="80%" height="80%">
 
 Tabela da grade de Formação Hacker da Gama Academy:
 ![tab_gama_png](https://user-images.githubusercontent.com/128313401/226762504-2c6398dc-cbbe-4879-9f92-89d1f0922080.png)
