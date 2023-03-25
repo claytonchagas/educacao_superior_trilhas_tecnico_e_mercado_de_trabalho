@@ -48,20 +48,21 @@ Tabela de exposição da Representatividade de cada cluster por Curso
 [Detalhes Curso Técnico em Informática do SENAC](https://drive.google.com/file/d/1pfRFYAPTQx2XtvSfn-KSTPmbBtausNf8/view?usp=sharing) 
 
 ### Tabela com informações das grades das trilhas de formação e cursos técnicos da pesquisa.
-<!--Tabela da grade da Formação de Desenvolvimento Web da Trybe:-->
-<!--![tab_trybe_png](https://user-images.githubusercontent.com/128313401/226761404-5f9d6637-54f2-4f7a-a9ea-e45b71ddd1ee.png)-->
-
 Tabela da grade da Formação de Desenvolvimento Web da Trybe:
+<!--![tab_trybe_png](https://user-images.githubusercontent.com/128313401/226761404-5f9d6637-54f2-4f7a-a9ea-e45b71ddd1ee.png)-->
 <img src="https://user-images.githubusercontent.com/128313401/226761404-5f9d6637-54f2-4f7a-a9ea-e45b71ddd1ee.png"  width="80%" height="80%">
 
 Tabela da grade de Formação Hacker da Gama Academy:
-![tab_gama_png](https://user-images.githubusercontent.com/128313401/226762504-2c6398dc-cbbe-4879-9f92-89d1f0922080.png)
+<!--![tab_gama_png](https://user-images.githubusercontent.com/128313401/226762504-2c6398dc-cbbe-4879-9f92-89d1f0922080.png)-->
+<img src="https://user-images.githubusercontent.com/128313401/226762504-2c6398dc-cbbe-4879-9f92-89d1f0922080.png"  width="80%" height="80%">
 
 Tabela da grade de formação técnica do SENAC:
-![tab_snc_png (1)](https://user-images.githubusercontent.com/128313401/226762679-ab169e92-28c0-4096-b488-6592e40bd88a.png)
+<!--![tab_snc_png (1)](https://user-images.githubusercontent.com/128313401/226762679-ab169e92-28c0-4096-b488-6592e40bd88a.png)-->
+<img src="https://user-images.githubusercontent.com/128313401/226762679-ab169e92-28c0-4096-b488-6592e40bd88a.png"  width="80%" height="80%">
 
 Tabela de agrupamento das grades dos três cursos:
-![grade_trilhas2](https://user-images.githubusercontent.com/18330758/226469468-248c3742-d652-4822-a5f5-ad7a195903a7.png)
+<!--![grade_trilhas2](https://user-images.githubusercontent.com/18330758/226469468-248c3742-d652-4822-a5f5-ad7a195903a7.png)-->
+<img src="https://user-images.githubusercontent.com/18330758/226469468-248c3742-d652-4822-a5f5-ad7a195903a7.png"  width="80%" height="80%">
 
 
 ## Seção 3.3: Vagas do Mercado de trabalho em Computação
