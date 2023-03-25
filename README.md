@@ -48,8 +48,8 @@ Tabela de exposição da Representatividade de cada cluster por Curso
 [Detalhes Curso Técnico em Informática do SENAC](https://drive.google.com/file/d/1pfRFYAPTQx2XtvSfn-KSTPmbBtausNf8/view?usp=sharing) 
 
 ### Tabela com informações das grades das trilhas de formação e cursos técnicos da pesquisa.
-Tabela da grade da Formação de Desenvolvimento Web da Trybe:
-![tab_trybe_png](https://user-images.githubusercontent.com/128313401/226761404-5f9d6637-54f2-4f7a-a9ea-e45b71ddd1ee.png)
+>Tabela da grade da Formação de Desenvolvimento Web da Trybe:
+>![tab_trybe_png](https://user-images.githubusercontent.com/128313401/226761404-5f9d6637-54f2-4f7a-a9ea-e45b71ddd1ee.png)
 
 Tabela da grade da Formação de Desenvolvimento Web da Trybe:
 <img src="https://user-images.githubusercontent.com/128313401/226761404-5f9d6637-54f2-4f7a-a9ea-e45b71ddd1ee.png"  width="80%" height="80%">
