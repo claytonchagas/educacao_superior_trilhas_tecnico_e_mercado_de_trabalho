@@ -66,11 +66,15 @@ Tabela de agrupamento das grades dos três cursos:
 
 
 ## Seção 3.3: Vagas do Mercado de trabalho em Computação
-
+### Tabela demonstrando o nível de escolaridade necessário para as vagas analisadas
 ![(a) tab_escolaridade](https://user-images.githubusercontent.com/128312304/227389276-289d7708-189f-4a66-bd12-407c9108104c.png)
+### Tabela demonstrando a necessidade de término do ensino superior entre as vagas que requeriam ensino superior
 ![(b) tab_completoincompleto](https://user-images.githubusercontent.com/128312304/227389544-80e12111-d7f2-4020-a916-fbda4a738214.png)
+### Tabela demonstarando a necessidade dor curso de ensino superior ser na área de computação 
 ![(c) tab_areacomputacao](https://user-images.githubusercontent.com/128312304/227389682-64b78df4-ee6b-4ba0-9e47-2195141fa1fa.png)
+### Tabela demonstrando a necessidadede línguua estrangeira entre as vagas
 ![(d) tab_linguaestrangeira](https://user-images.githubusercontent.com/128312304/227389763-3372afad-3344-4168-bd25-f68b903f5d27.png)
+### Tabela demonstrando as hard skills e soft skills analisadas, juntamente com a sua frequência entre as vagas
 ![tab_hardesoftskills](https://user-images.githubusercontent.com/128312304/227389876-baef0621-6da6-4c9b-a75b-bf1ac41c2a73.png)
 
 
