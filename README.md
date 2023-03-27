@@ -86,12 +86,26 @@ Tabela e gráfico de necessidade do curso superior ser da área de computação:
 
 ![tab_hardesoftskills](https://user-images.githubusercontent.com/128312304/227389876-baef0621-6da6-4c9b-a75b-bf1ac41c2a73.png)
 
-![tab_outrasqualificacoes](https://user-images.githubusercontent.com/128312304/227827519-bc20403c-9646-4e4b-82eb-43a21e6b8fbc.png)
+Tabela e gráfico de competências técnicas na área de progamação em geral:
 
+![tab_skillsdeprog](https://user-images.githubusercontent.com/128312304/227827855-df0d896d-a200-42ff-891a-d254eadf98d0.png)
+
+Tabela e gráfico de competências técnicas na área de banco de dados:
+
+![tab_bancodedados](https://user-images.githubusercontent.com/128312304/227827528-90f4da45-69a5-42b9-887f-fbb1ffac1ffc.png)
+
+Tabela e gráfico de vagas com competências técnicas relacionadas a SQL:
 
 ![tab_vagasdesql](https://user-images.githubusercontent.com/128312304/227827526-217924da-830c-4e9c-a8b5-fe21fb110144.png)
 
-![tab_bancodedados](https://user-images.githubusercontent.com/128312304/227827528-90f4da45-69a5-42b9-887f-fbb1ffac1ffc.png)
+Tabela e gráfico de vagas relacionadas a outras competências técnicas consideradas importantes:
+
+![tab_outrasqualificacoes](https://user-images.githubusercontent.com/128312304/227827519-bc20403c-9646-4e4b-82eb-43a21e6b8fbc.png)
+
+
+
+
+
 
 
 
