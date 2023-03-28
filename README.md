@@ -4,7 +4,7 @@
 
 #### Pesquisa realizada junto dos alunos do Colégio Militar do Rio de Janeiro para tentar responder ao seguinte questionamento: 
 
-####Cursos superiores da área de Computação *versus formações imersivas e cursos técnicos de TI: qual profissional o mercado de trabalho realmente precisa?
+#### Cursos superiores da área de Computação *versus formações imersivas e cursos técnicos de TI: qual profissional o mercado de trabalho realmente precisa?
 
 #### Integrantes do projeto:
 + Clayton Escouper das Chagas - Instituto Militar de Engenharia (IME/RJ) - Professor do IME e Orientador da pesquisa - <escouper@ime.eb.br>
