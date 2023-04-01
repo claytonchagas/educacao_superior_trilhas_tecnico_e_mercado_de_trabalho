@@ -94,16 +94,17 @@ Tabela e gráfico de necessidade do curso superior ser da área de computação:
 
 Tabela e gráfico de competências técnicas na área de progamação em geral:
 
-![tab_skillsdeprog](https://user-images.githubusercontent.com/128312304/227827855-df0d896d-a200-42ff-891a-d254eadf98d0.png)
+![Progamação](https://user-images.githubusercontent.com/128312304/229263713-6bb2afe3-1f82-47b3-8f5b-88a83649bc64.png)
 
 Tabela e gráfico de competências técnicas na área de banco de dados:
 
-![tab_bancodedados](https://user-images.githubusercontent.com/128312304/227827528-90f4da45-69a5-42b9-887f-fbb1ffac1ffc.png)
+![Bancodedados](https://user-images.githubusercontent.com/128312304/229263714-d392f080-41b9-40b6-a914-89af8a8d6089.png)
 
 
 Tabela e gráfico de vagas relacionadas a outras competências técnicas consideradas importantes:
 
-![tab_outrasqualificacoes](https://user-images.githubusercontent.com/128312304/227827519-bc20403c-9646-4e4b-82eb-43a21e6b8fbc.png)
+![outros](https://user-images.githubusercontent.com/128312304/229263715-52ca4c91-7641-4445-b5c8-e4c0bde79e2d.png)
+
 
 
 
