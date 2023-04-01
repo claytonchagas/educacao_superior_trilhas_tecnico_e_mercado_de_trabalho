@@ -96,9 +96,6 @@ Tabela e gráfico de competências técnicas na área de banco de dados:
 
 ![tab_bancodedados](https://user-images.githubusercontent.com/128312304/227827528-90f4da45-69a5-42b9-887f-fbb1ffac1ffc.png)
 
-Tabela e gráfico de vagas com competências técnicas relacionadas a SQL:
-
-![tab_vagasdesql](https://user-images.githubusercontent.com/128312304/227827526-217924da-830c-4e9c-a8b5-fe21fb110144.png)
 
 Tabela e gráfico de vagas relacionadas a outras competências técnicas consideradas importantes:
 
