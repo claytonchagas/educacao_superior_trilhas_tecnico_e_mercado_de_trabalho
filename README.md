@@ -2,18 +2,18 @@
 
 > Status: em desenvolvimento ⚠️
 
-#### Pesquisa realizada junto dos alunos do Colégio Militar do Rio de Janeiro para tentar responder ao seguinte questionamento: 
+> #### Pesquisa realizada junto dos alunos do Colégio Militar do Rio de Janeiro para tentar responder ao seguinte questionamento: 
 
-#### Cursos superiores da área de Computação *versus* formações imersivas e cursos técnicos de TI: qual profissional o mercado de trabalho realmente precisa?
+> #### Cursos superiores da área de Computação *versus* formações imersivas e cursos técnicos de TI: qual profissional o mercado de trabalho realmente precisa?
 
 #### Integrantes do projeto:
-+ Clayton Escouper das Chagas - Instituto Militar de Engenharia (IME/RJ) - Professor do IME e Orientador da pesquisa - <escouper@ime.eb.br>
-+ Sofia Monteiro - Colégio Militar do Rio de Janeiro - Aluna Líder da pesquisa e Bolsista de Iniciação Científica Júnior do CNPq - <sofia.moumont@gmail.com>
-+ Ian Lucca - Colégio Militar do Rio de Janeiro - Bolsista de Iniciação Científica Júnior do CNPq - <ianluccab@gmail.com>
-+ Mariana Racca - Colégio Militar do Rio de Janeiro - Bolsista de Iniciação Científica Júnior do CNPq - <marianaaracca@gmail.com>
-+ Ana Lúcia de Oliveira Barreto - Colégio Militar do Rio de Janeiro - Professora do CMRJ e Co-orientadora - <anabarreto@ime.eb.br>
+> + Clayton Escouper das Chagas - Instituto Militar de Engenharia (IME/RJ) - Professor do IME e Orientador da pesquisa - <escouper@ime.eb.br>
+> + Sofia Monteiro - Colégio Militar do Rio de Janeiro - Aluna Líder da pesquisa e Bolsista de Iniciação Científica Júnior do CNPq - <sofia.moumont@gmail.com>
+> + Ian Lucca - Colégio Militar do Rio de Janeiro - Bolsista de Iniciação Científica Júnior do CNPq - <ianluccab@gmail.com>
+> + Mariana Racca - Colégio Militar do Rio de Janeiro - Bolsista de Iniciação Científica Júnior do CNPq - <marianaaracca@gmail.com>
+> + Ana Lúcia de Oliveira Barreto - Colégio Militar do Rio de Janeiro - Professora do CMRJ e Co-orientadora - <anabarreto@ime.eb.br>
 
-## Informações complemetares do artigo "Cursos superiores da área de Computação *versus* formações imersivas e cursos técnicos de TI: qual profissional o mercado de trabalho realmente precisa?" - WEI 2023 - CSBC
+## Informações complemetares do artigo "Cursos superiores da área de Computação *versus* formações imersivas e cursos técnicos de TI: qual profissional o mercado de trabalho realmente precisa?" - CBIE 2023 - CSBC
 
 ## Seção 3.1: Ensino de computação no nível superior no Brasil
 ### Planilhas com informações das disciplinas dos cursos superiores
