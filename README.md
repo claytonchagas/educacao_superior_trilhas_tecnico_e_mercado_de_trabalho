@@ -1,10 +1,10 @@
 ![Banner_Site_Artigo](https://user-images.githubusercontent.com/72030272/226209053-cb0d8631-66ce-4e14-a981-7c083db69e3d.png)
 
-> Status: em desenvolvimento ⚠️
+Status: em desenvolvimento ⚠️
 
 > #### Pesquisa realizada junto dos alunos do Colégio Militar do Rio de Janeiro para tentar responder ao seguinte questionamento: 
 
-> #### Cursos superiores da área de Computação *versus* formações imersivas e cursos técnicos de TI: qual profissional o mercado de trabalho realmente precisa?
+#### Cursos superiores da área de Computação *versus* formações imersivas e cursos técnicos de TI: qual profissional o mercado de trabalho realmente precisa?
 
 #### Integrantes do projeto:
 > + Clayton Escouper das Chagas - Instituto Militar de Engenharia (IME/RJ) - Professor do IME e Orientador da pesquisa - <escouper@ime.eb.br>
